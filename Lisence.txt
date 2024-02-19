@@ -1,0 +1,8 @@
+GameJam UPBGE
+
+produit par LOPOS production
+
+#----theme 1: Pausing has consequence----#
+date: 08/02/2024
+projet sous license CC BY-NC 4.0
+http://creativecommons.org/licenses/by-nc/4.0/
