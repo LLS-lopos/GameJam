@@ -1,0 +1,17 @@
+Projet Lopos Production
+
+projet sous license CC BY-NC 4.0
+
+element sous license CC BY-NC 4.0:
+    - checkboxFaux.png (peut être utiliser à des fin commercial) par LLS
+    - checkboxVrai.png (peut être utiliser à des fin commercial) par LLS
+    - slider1.png (peut être utiliser à des fin commercial) par joaloub@gmail.com
+    - styleBoutonHslider.png (peut être utiliser à des fin commercial) par LLS, joaloub@gmail.com
+
+element sous licence CCO:
+    - logo_upbge_base_color.jpg; par LLS
+    - logo_upbge_emission.jpg; par LLS
+    - logo_upbge_metallic.jpg; par LLS
+    - logo_upbge_roughness.jpg; par LLS
+    - logo_upbge_specular.jpg; par LLS
+    - tout les autres élément non mentionné son également sous license CCO

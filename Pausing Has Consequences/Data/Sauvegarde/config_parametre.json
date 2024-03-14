@@ -1,0 +1,12 @@
+{
+  "afficher_profil": false,
+  "afficher_bloom": true,
+  "ssr": false,
+  "vlight": false,
+  "fps": true,
+  "fullscreen": false,
+  "vsync": 1,
+  "Tecran": 0,
+  "exposure": 0.5,
+  "gamma": 1.0
+}
